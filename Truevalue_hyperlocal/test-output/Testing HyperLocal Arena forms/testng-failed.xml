@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Testing HyperLocal Arena forms]">
+  <test thread-count="5" name="Testing Arena(failed)">
+    <classes>
+      <class name="com.truevalue.hyperlocal.Truevalueofmathuraroad">
+        <methods>
+          <include name="Class"/>
+        </methods>
+      </class> <!-- com.truevalue.hyperlocal.Truevalueofmathuraroad -->
+      <class name="com.truevalue.hyperlocal.DetailPageBookDrive">
+        <methods>
+          <include name="Class"/>
+        </methods>
+      </class> <!-- com.truevalue.hyperlocal.DetailPageBookDrive -->
+    </classes>
+  </test> <!-- Testing Arena(failed) -->
+</suite> <!-- Failed suite [Testing HyperLocal Arena forms] -->

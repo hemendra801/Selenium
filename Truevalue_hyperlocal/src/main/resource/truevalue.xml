@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Testing HyperLocal Arena forms">
+
+<test name="Testing Arena">
+<classes>
+<class name="com.truevalue.hyperlocal.DetailPageBookDrive"></class>
+<class name="com.truevalue.hyperlocal.FormValidation"></class>
+<class name="com.truevalue.hyperlocal.insurance"></class>
+<class name="com.truevalue.hyperlocal.Truevalueofmathuraroad"></class>
+<class name="com.truevalue.hyperlocal.Website2"></class>
+
+</classes>
+</test>
+</suite>

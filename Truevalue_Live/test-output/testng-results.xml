@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-07-09T10:25:52Z" name="Default suite" finished-at="2019-07-09T10:26:52Z" duration-ms="59883">
+    <groups>
+    </groups>
+    <test started-at="2019-07-09T10:25:52Z" name="Default test" finished-at="2019-07-09T10:26:52Z" duration-ms="59883">
+      <class name="com.truevalue.live.BooktestDrive">
+        <test-method is-config="true" signature="TRV_Booking()[pri:0, instance:com.truevalue.live.BooktestDrive@4f638935]" started-at="2019-07-09T10:25:52Z" name="TRV_Booking" finished-at="2019-07-09T10:26:49Z" duration-ms="56680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TRV_Booking -->
+        <test-method signature="Booktestdrive()[pri:1, instance:com.truevalue.live.BooktestDrive@4f638935]" started-at="2019-07-09T10:26:49Z" name="Booktestdrive" finished-at="2019-07-09T10:26:51Z" duration-ms="1911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Booktestdrive -->
+        <test-method signature="Booktestdrive1()[pri:2, instance:com.truevalue.live.BooktestDrive@4f638935]" started-at="2019-07-09T10:26:51Z" name="Booktestdrive1" finished-at="2019-07-09T10:26:52Z" duration-ms="1103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Booktestdrive1 -->
+      </class> <!-- com.truevalue.live.BooktestDrive -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

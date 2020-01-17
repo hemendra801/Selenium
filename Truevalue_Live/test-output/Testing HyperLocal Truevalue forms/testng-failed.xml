@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Testing HyperLocal Truevalue forms]">
+  <listeners>
+    <listener class-name="com.extentreport.utility.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="Testing Truevalue(failed)">
+    <classes>
+      <class name="com.truevalue.live.SellPage">
+        <methods>
+          <include name="TRV_SellPage"/>
+        </methods>
+      </class> <!-- com.truevalue.live.SellPage -->
+    </classes>
+  </test> <!-- Testing Truevalue(failed) -->
+</suite> <!-- Failed suite [Testing HyperLocal Truevalue forms] -->

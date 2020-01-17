@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.cse.qa.IT_Service"/>
+      <class name="com.cse.qa.Home_Page"/>
+      <class name="com.cse.qa.Broken_Link"/>
+      <class name="com.cse.qa.IT_Service_Inner_Page"/>
+      <class name="CSE_Azure.CSE_Azure.AppTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
